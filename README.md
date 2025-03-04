@@ -28,8 +28,8 @@ I'm an aspiring **Flutter Developer** with a strong passion for building mobile 
 
 ### 🌐 Connect with Me
 - 📧 Email: [bh302333@gmail.com](flutterbillal.com)
-- 🔗 LinkedIn: [billal-hossan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/billal-hossan-92001b230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app ))
-- 💻 GitHub: [billalhossan1]([https://github.com/billalhossan22](https://github.com/billalhossan1))
+- 🔗 LinkedIn: [https://www.linkedin.com/in/billal-hossan-92001b230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- 💻 GitHub: [https://github.com/billalhossan1]
 
 ### ⚡ Fun Fact
 I love comparing **smartphones** and exploring **new technologies** in the mobile world!

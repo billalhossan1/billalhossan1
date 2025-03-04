@@ -10,7 +10,7 @@ I'm an aspiring **Flutter Developer** with a strong passion for building mobile 
 ### 💡 Skills & Technologies
 - **Programming Languages:** Dart, C, C++
 - **Mobile Development:** Flutter, Dart
-- **State Management:** Provider, Riverpod
+- **State Management:** Getx
 - **Backend Integration:** REST APIs
 - **Database:** SQLite, Firebase
 - **Version Control:** Git, GitHub

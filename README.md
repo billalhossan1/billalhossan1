@@ -30,7 +30,8 @@ I'm an aspiring **Flutter Developer** with a strong passion for building mobile 
 - 💻 GitHub: https://github.com/billalhossan1
 
 ### ⚡ Fun Fact
-I love comparing **smartphones** and exploring **new technologies** in the mobile world!
+I enjoy solving coding challenges and breaking down complex problems into simple solutions! When I’m not coding, you’ll find me exploring new tech trends and experimenting with app ideas.
+
 
 ---
 

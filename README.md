@@ -36,4 +36,3 @@ I enjoy solving coding challenges and breaking down complex problems into simple
 ---
 
 _Thanks for visiting my profile! Feel free to check out my repositories and contribute._ 😊
-make it more proffetional with animation

@@ -25,7 +25,7 @@ I'm an aspiring **Flutter Developer** with a strong passion for building mobile 
 - **Authentication System** – Login, signup, and password recovery using OTP verification
 
 ### 🌐 Connect with Me
-- 📧 Email: [flutterbillal.com](flutterbillal.com)
+- 📧 Email: [flutterbillal.com](mailto:flutterbillal.com)
 - 🔗 LinkedIn: https://www.linkedin.com/in/billal-hossan-92001b230?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - 💻 GitHub: https://github.com/billalhossan1
 

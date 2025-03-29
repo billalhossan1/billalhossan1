@@ -1,4 +1,3 @@
-![logo](https://yourwebsite.com/logo.png)
 
 # 👋 Hi, I'm Billal Hossan!
 

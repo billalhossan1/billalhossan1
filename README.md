@@ -73,7 +73,7 @@
 ## 💌 Connect With Me  
 - 📞 **Email:** [flutterbillal.com](mailto:flutterbillal.com)  
 - 👉 **LinkedIn:** [Billal Hossan](https://www.linkedin.com/in/billal-hossan-92001b230)  
-- 💻 **GitHub:** [billalhossan1](https://github.com/billalhossan1)  
+- 💻 **GitHub:** [billalhossan](https://github.com/billalhossan1)  
 
 ---
 

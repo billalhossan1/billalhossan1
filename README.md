@@ -1,22 +1,24 @@
-
 # 👋 Hi, I'm Billal Hossan!
 
-## 🚀 FLUTTER DEVELOPER | MOBILE APP ENTHUSIAST
+## 🚀 FLUTTER DEVELOPER | MOBILE APP ENTHUSIAST  
 
-💙 Passionate about **Flutter Development** with a strong focus on **Dart, GetX, Firebase, and API Integration**  
+💙 Passionate about **Flutter Development** with a strong focus on **Dart, GetX, Firebase, Supabase, and API Integration**  
 🚀 Building **efficient, scalable, and user-friendly mobile applications**  
 🔹 Strong understanding of **Object-Oriented Programming (OOP)** and **Problem-Solving**  
 
 ---
 
 ## 📱 My Projects
-- 👉 **E-commerce App** – Flutter-based shopping app with API integration
-- 👉 **CRUD Operations App** – Managing products with create, read, update, and delete functionalities
-- 👉 **Authentication System** – Login, signup, and password recovery using OTP verification
+
+- 👉 **E-commerce App** – Flutter-based shopping app with API integration  
+- 👉 **CRUD Operations App** – Managing products with create, read, update, and delete functionalities  
+- 👉 **Authentication System** – Login, signup, and password recovery using OTP verification  
+- 👉 **Chat App with Supabase** – Real-time chat functionality using Supabase backend  
 
 ---
 
 ## 👨‍🎓 Education  
+
 - 🎓 **B.Sc. in Computer Science & Engineering**  
 - 🏫 **Dhaka International University, Bangladesh**  
 
@@ -24,20 +26,21 @@
 
 ## 🛠️ Skills & Tech Stack  
 
-### **💙 Flutter Development**  
+### 💙 **Flutter Development**  
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/GetX-4CAF50?style=for-the-badge&logo=getx&logoColor=white"/>
 </p>
 
-### **🔥 Backend & API Integration**  
+### 🔥 **Backend & API Integration**  
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
-### **🛠️ Database & Version Control**  
+### 🗃️ **Database & Version Control**  
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
@@ -47,9 +50,11 @@
 ---
 
 ## 🌟 Current Focus  
+
 - Enhancing my **Flutter UI/UX** skills  
 - Implementing **responsive design** and **adaptive layouts**  
 - Learning **advanced Flutter animations**  
+- Exploring **Supabase** for real-time apps  
 
 ---
 
@@ -71,15 +76,26 @@
 ---
 
 ## 💌 Connect With Me  
-- 📞 **Email:** [flutterbillal.com](mailto:flutterbillal.com)  
-- 👉 **LinkedIn:** [Billal Hossan](https://www.linkedin.com/in/billal-hossan-92001b230)  
+
+- 📧 **Email:** [flutterbillal.com](mailto:flutterbillal.com)  
+- 💼 **LinkedIn:** [Billal Hossan](https://www.linkedin.com/in/billal-hossan-92001b230)  
 - 💻 **GitHub:** [billalhossan](https://github.com/billalhossan1)  
 
 ---
 
-### 🎡 Fun Fact  
-I enjoy solving coding challenges and breaking down complex problems into simple solutions! When I’m not coding, you’ll find me exploring new tech trends and experimenting with app ideas.  
+## 📄 Resume / CV  
+
+📥 **Download my CV:**  
+<a href="https://drive.google.com/file/d/1h7KKx5s2kVyPwsZNTputKBY5Gd1UcGpI/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+</a>
 
 ---
 
-_Thanks for visiting my profile! Feel free to check out my repositories and contribute._ 😊
+### 🎡 Fun Fact  
+I enjoy solving coding challenges and breaking down complex problems into simple solutions!  
+When I’m not coding, you’ll find me exploring new tech trends and experimenting with app ideas.
+
+---
+
+_Love what you see? Feel free to connect or contribute! 😊_

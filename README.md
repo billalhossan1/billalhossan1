@@ -83,10 +83,10 @@
 
 ---
 
-## 📄 Resume / CV  
+## 📄 Resume / CV
 
 📥 **Download my CV:**  
-<a href="https://drive.google.com/file/d/1h7KKx5s2kVyPwsZNTputKBY5Gd1UcGpI/view?usp=sharing" target="_blank">
+<a href="https://drive.google.com/uc?export=download&id=1h7KKx5s2kVyPwsZNTputKBY5Gd1UcGpI" download target="_blank">
   <img src="https://img.shields.io/badge/Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 

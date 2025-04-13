@@ -84,7 +84,6 @@
 ---
 
 ## 📄 Resume / CV
-
 📥 **Download my CV:** 
 
 <a href="https://drive.google.com/uc?export=download&id=1h7KKx5s2kVyPwsZNTputKBY5Gd1UcGpI" download target="_blank">

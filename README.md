@@ -26,26 +26,64 @@
 
 ## 🛠️ Skills & Tech Stack  
 
-### 💙 **Flutter Development**  
+### 💙 **Flutter Development**
 <p align="left">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
   <img src="https://img.shields.io/badge/GetX-4CAF50?style=for-the-badge&logo=getx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Responsive%20UI-1976D2?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/State%20Management-009688?style=for-the-badge&logo=flutter&logoColor=white"/>
 </p>
 
-### 🔥 **Backend & API Integration**  
+---
+
+### 🔥 **Backend & API Integration**
 <p align="left">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
 </p>
 
-### 🗃️ **Database & Version Control**  
+---
+
+### 🗃️ **Database & Version Control**
 <p align="left">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SharedPreferences-009688?style=for-the-badge&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+### ⚙️ **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FVM-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"/>
+</p>
+
+---
+
+### 🤖 **Hardware & IoT**
+<p align="left">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Sensors%20%26%20Motors-555555?style=for-the-badge&logo=hardware&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Voice%20Control%20Projects-607D8B?style=for-the-badge&logo=speechmatics&logoColor=white"/>
+</p>
+
+---
+
+### 💼 **Other Skills**
+<p align="left">
+  <img src="https://img.shields.io/badge/MS%20Office-217346?style=for-the-badge&logo=microsoftoffice&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Word%2C%20Excel%2C%20PowerPoint-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Presentation%20Design-FF4088?style=for-the-badge&logo=canva&logoColor=white"/>
+</p>
+
 
 ---
 

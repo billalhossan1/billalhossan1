@@ -61,16 +61,16 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=billalhossan1&show_icons=true&theme=github_dark"/>
-  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossan1&layout=compact&theme=github_dark"/>
+  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=alexmajumder&show_icons=true&theme=github_dark"/>
+  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmajumder&layout=compact&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossan1&theme=github_dark"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alexmajumder&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=billalhossan1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=alexmajumder&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
 </p>
 
 ---

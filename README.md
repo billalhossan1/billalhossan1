@@ -59,21 +59,13 @@
 ---
 
 ## 📊 GitHub Stats  
-
 <p align="center">
-  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=billalhossan1&show_icons=true&theme=github_dark"/>
-  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossan1&layout=compact&theme=github_dark"/>
+  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=billalhossan1&show_icons=true&theme=github_dark&cache_seconds=1800"/>
+  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossan1&layout=compact&theme=github_dark&cache_seconds=1800"/>
 </p>
-
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossan1&theme=github_dark"/>
+  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossan1&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
-
-<p align="center">
-  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=billalhossan1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"/>
-</p>
-
----
 
 ## 💌 Connect With Me  
 

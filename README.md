@@ -61,8 +61,8 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=alexmajumder&show_icons=true&theme=github_dark"/>
-  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexmajumder&layout=compact&theme=github_dark"/>
+  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=billalhossan1&show_icons=true&theme=github_dark"/>
+  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossan1&layout=compact&theme=github_dark"/>
 </p>
 
 <p align="center">

@@ -116,8 +116,8 @@
 ## 📄 Resume / CV
 📥 **Download my CV:** 
 
-<a href="https://drive.google.com/drive/folders/1qUt27oEq1fqFZsvyFgn_4BrR-sNWmiJR" download target="_blank">
-  <img src="https://img.shields.io/badge/Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+<a href="https://drive.google.com/uc?export=download&id=YOUR_FILE_ID" download>
+  <img src="https://img.shields.io/badge/Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
 </a>
 
 ---

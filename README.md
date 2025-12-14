@@ -98,12 +98,23 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img alt="My GitHub Stats" width="47%" src="https://github-readme-stats.vercel.app/api?username=billalhossan1&show_icons=true&theme=github_dark&cache_seconds=1800"/>
-  <img alt="Top Languages" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossan1&layout=compact&theme=github_dark&cache_seconds=1800"/>
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api?username=billalhossan1&show_icons=true&theme=github_dark&hide_border=true"
+  />
+  <img
+    width="48%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=billalhossan1&layout=compact&theme=github_dark&hide_border=true"
+  />
 </p>
+
 <p align="center">
-  <img alt="GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=billalhossan1&theme=github_dark&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img
+    src="https://github-readme-streak-stats-six.vercel.app/?user=billalhossan1&theme=dark&hide_border=true"
+  />
 </p>
+
+
 
 ## 💌 Connect With Me  
 

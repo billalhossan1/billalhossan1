@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Billal Hossan!
 
-## 🚀 FLUTTER DEVELOPER | MOBILE APP ENTHUSIAST  
+## 🚀 FLUTTER DEVELOPER | MOBILE APP ENTHUSIAST 
 
 💙 Passionate about **Flutter Development** with a strong focus on **Dart, GetX, Firebase, Supabase, and API Integration**  
 🚀 Building **efficient, scalable, and user-friendly mobile applications**  

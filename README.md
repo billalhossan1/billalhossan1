@@ -133,7 +133,12 @@ Download File
 </a>
   <img src="https://img.shields.io/badge/Download%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV"/>
 </a>
+ <img src="https://github-profile-trophy.vercel.app/?username=billalhossan1&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 
+  <!-- Profile View Counter -->
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=IsmailHossen87&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views" />
+  </p>
 ---
 
 ### 🎡 Fun Fact  
